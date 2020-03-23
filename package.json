@@ -63,6 +63,6 @@
   },
   "devDependencies": {
     "@types/mithril": "^2.0.2",
-    "ts-loader": "^6.2.1"
+    "ts-loader": "^6.2.2"
   }
 }
